@@ -4,4 +4,6 @@
 2. Métodos de strings
 3. ASCII
 4. for, condicionales (if, if else);
+
+### Diagrama de Flujo (prueba)
 ![Diagrama de flujo](diagrama-boceto-else-if.jpeg)
