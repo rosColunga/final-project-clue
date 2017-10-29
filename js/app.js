@@ -28,6 +28,9 @@ testString.charAt(2);
 var codigo = testString.charCodeAt (2);
 console.log(testString);
 
+var prueba = String.fromCharCode(testString);
+
+
 
 
 
